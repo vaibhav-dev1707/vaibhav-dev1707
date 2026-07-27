@@ -2,6 +2,11 @@
 
 I build a practicl software projects to my strengthen my programming skills, explore modern technologies and gain hands-on experience  throught consistent learning and real-world development.
 
+🎯 Current Focus:
+
+* Enhancing my C++ programming skills.
+* Building practical projects to improve problem-solving and development experience.
+
 <hr>
 🫴 Get in touch
  
