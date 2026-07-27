@@ -9,6 +9,7 @@ I build a practicl software projects to my strengthen my programming skills, exp
 * Building practical projects to improve problem-solving and development experience.
 * Exploring web development and modern software engineering practices.
 * Contributing to open-sourece projects while continuously learning new technologies.
+* Learning through open-source projects and real-world constraints.
 
 <hr>
 🫴 Get in touch
