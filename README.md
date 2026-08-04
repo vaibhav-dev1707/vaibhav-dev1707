@@ -1,8 +1,9 @@
+https://github.com/vaibhav-dev1707/vaibhav-dev1707/edit/main/README.md
 <h3>Hi there, I'm Vaibhav 👋</h3>
 
 I build a practice software projects to my strengthen my programming skills, explore modern technologies and gain hands-on experience throught consistent learning and real-world development.
 
-<strong>🎯 Current Focus</strong>:
+<strong>🎯 Current Focus :</strong>
 
 <ul>
  <li> Expanding my Python knowledge through continuous learning and hands-on practice.</li>
