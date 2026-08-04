@@ -12,9 +12,8 @@ I build a practice software projects to my strengthen my programming skills, exp
  <li> Contributing to open-sourece projects while continuously learning new technologies.</li>
  <li> Learning through open-source projects and real-world constraints.</li>
 </ul>
-<hr>
 
-🫴 Get in touch
+<h5>🫴 Get in touch</h5>
  
 Join the community or connect with me:  <a href="https://www.linkedin.com/in/vaibhav-pandey-b664a03a5/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="22" alt="LinkedIn"/>
