@@ -14,6 +14,7 @@ I build a practice software projects to my strengthen my programming skills, exp
 </ul>
 
 <h5>🫴 Get in touch</h5>
+<hr>
  
 Join the community or connect with me:  <a href="https://www.linkedin.com/in/vaibhav-pandey-b664a03a5/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="20" alt="LinkedIn"/>
