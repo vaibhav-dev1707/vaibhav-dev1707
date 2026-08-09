@@ -14,7 +14,7 @@ I build a practice software projects to my strengthen my programming skills, exp
 </ul>
 
 <strong>🧩 Current Projects :</strong><br>
-[Quick-Master-Calculator](https://github.com/vaibhav-dev1707/Quick-Master-Calculator) - A responsive scientific web calculaor, that is used for different operations calculation.
+[Quick-Master-Calculator](https://github.com/vaibhav-dev1707/Quick-Master-Calculator) - A responsive scientific web calculaor, that can use for different operations calculation.
 
 <h5>🫴 Get in touch</h5>
  
