@@ -13,6 +13,8 @@ I build a practice software projects to my strengthen my programming skills, exp
  <li> Learning through open-source projects and real-world constraints.</li>
 </ul>
 
+<strong>🧩 Current Projects :</strong>
+
 <h5>🫴 Get in touch</h5>
  
 Join the community or connect with me:  <a href="https://www.linkedin.com/in/vaibhav-pandey-b664a03a5/" target="_blank">
