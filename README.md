@@ -25,3 +25,5 @@ I build a practice software projects to my strengthen my programming skills, exp
   <a href="https://discord.com/invite/pFjjb3wm" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord" height="20" alt="Discord"/>
 </a>
+
+<h5>📊 My GitHub Stats :</h5>
