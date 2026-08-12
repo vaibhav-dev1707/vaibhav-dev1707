@@ -14,11 +14,12 @@ I build a practice software projects to my strengthen my programming skills, exp
 </ul>
 
 <strong>🧩 Current Project :</strong><br>
+
 [Quick-Master-Calculator](https://github.com/vaibhav-dev1707/Quick-Master-Calculator) - A responsive scientific web calculaor, that can use for different operations calculation.
 
 <h5>🫴 Get in touch</h5>
  
-Join the community or connect with me:  <a href="https://www.linkedin.com/in/vaibhav-pandey-b664a03a5/" target="_blank">
+*Join the community or connect with me*:  <a href="https://www.linkedin.com/in/vaibhav-pandey-b664a03a5/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="20" alt="LinkedIn"/>
   </a>
   <a href="https://discord.com/invite/pFjjb3wm" target="_blank">
