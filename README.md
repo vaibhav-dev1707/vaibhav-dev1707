@@ -27,3 +27,6 @@ I build a practice software projects to my strengthen my programming skills, exp
 </a>
 
 <h5>📊 My GitHub Stats :</h5>
+
+![Profile Stats](assets/metrics/profile_stats.svg)
+![Top Languages](assets/metrics/language_stats.svg)
