@@ -13,7 +13,7 @@ I build a practice software projects to my strengthen my programming skills, exp
  <li> Learning through open-source projects and real-world constraints.</li>
 </ul>
 
-<strong>🧩 Current Projects :</strong><br>
+<strong>🧩 Current Project :</strong><br>
 [Quick-Master-Calculator](https://github.com/vaibhav-dev1707/Quick-Master-Calculator) - A responsive scientific web calculaor, that can use for different operations calculation.
 
 <h5>🫴 Get in touch</h5>
