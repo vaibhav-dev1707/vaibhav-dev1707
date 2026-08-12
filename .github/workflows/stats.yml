@@ -1,0 +1,35 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron:  "0 0 * * *"
+    workflow_dispatch:
+
+permissions:
+    contents: write
+
+jobs:
+  generate_stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch GitHub Stats
+        run: |
+          mkdir -p assets/metrics
+          curl -fsSL \
+            "https://github-readme-stats.vercel.app/api?username=vaibhav-dev1707&theme=github_dark&show_icons=true&hide=contribs&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true" \
+            -o assets/metrics/profile_stats.svg
+
+      - name: Fetch Top Languages
+        run: |
+          curl -fsSL \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-dev1707&theme=github_dark&layout=compact&langs_count=8&count_private=true&bg_color=00000000&hide_border=true" \
+            -o assets/metrics/language_stats.svg
+
+      - name: Commit generated stats
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(stats): update generated stats"
+          file_pattern: assets/**/*.svg
