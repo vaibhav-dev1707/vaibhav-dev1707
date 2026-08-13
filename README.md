@@ -21,11 +21,6 @@ I build a practice software projects to my strengthen my programming skills, exp
 
 ![Metrics](./metrics.svg)
 
-<p align="center">
-  <img src="./dist/profile_details_dark.svg" width="48%" />
-  <img src="./dist/languages_per_repo_dark.svg" width="48%" />
-</p>
-
 <h5>🫴 Get in touch</h5>
  
 *Join the community or connect with me*:  <a href="https://www.linkedin.com/in/vaibhav-pandey-b664a03a5/" target="_blank">
