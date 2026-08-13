@@ -25,10 +25,3 @@ I build a practice software projects to my strengthen my programming skills, exp
   <a href="https://discord.com/invite/pFjjb3wm" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord" height="20" alt="Discord"/>
 </a>
-
-## 📸 Activity Snapshots :
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-dev1707&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-dev1707&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
