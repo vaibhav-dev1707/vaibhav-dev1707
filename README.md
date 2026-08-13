@@ -17,6 +17,10 @@ I build a practice software projects to my strengthen my programming skills, exp
 
 [Quick-Master-Calculator](https://github.com/vaibhav-dev1707/Quick-Master-Calculator) - A responsive scientific web calculaor, that can use for different operations calculation.
 
+## 📸 Activity Snapshots :
+
+![Metrics](./metrics.svg)
+
 <h5>🫴 Get in touch</h5>
  
 *Join the community or connect with me*:  <a href="https://www.linkedin.com/in/vaibhav-pandey-b664a03a5/" target="_blank">
