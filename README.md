@@ -28,5 +28,5 @@ I build a practice software projects to my strengthen my programming skills, exp
 
 <h5>📊 My GitHub Stats :</h5>
 
-![Profile Stats](assets/metrics/profile_stats.svg)
-![Top Languages](assets/metrics/language_stats.svg)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=vaibhav-dev1707&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-dev1707&layout=compact&theme=radical)
