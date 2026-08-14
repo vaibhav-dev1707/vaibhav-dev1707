@@ -25,7 +25,7 @@ I build a practice software projects to my strengthen my programming skills, exp
 
 ### 📊 Vaibhav's GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhav-dev1707&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=vaibhav-dev1707&show_icons=true&theme=github_dark" width="100%"/>
 
 </td>
 
@@ -33,17 +33,7 @@ I build a practice software projects to my strengthen my programming skills, exp
 
 ### 💻 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-dev1707&layout=compact&hide_border=true&theme=github_dark&langs_count=6" width="100%"/>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-
-### ⌛ WakaTime
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=vaibhav-dev1707&layout=compact&hide_border=true&theme=github_dark" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vaibhav-dev1707&layout=compact&langs_count=6&theme=github_dark" width="100%"/>
 
 </td>
 </tr>
